@@ -1,6 +1,6 @@
 # Moved
 
-This module has moved and is now available at [@rollup/plugin-typescript](https://github.com/rollup/plugins). Please update your dependencies. This repository is no longer maintained.
+This module has moved and is now available at [@rollup/plugin-typescript](https://github.com/rollup/plugins/tree/master/packages/typescript). Please update your dependencies. This repository is no longer maintained.
 
 
 # rollup-plugin-typescript
